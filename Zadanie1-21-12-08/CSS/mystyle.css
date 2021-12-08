@@ -1,0 +1,18 @@
+p.rámik {
+    border-left: 20px solid red;
+    border-right:20px solid red;
+    background-color: lightgrey;
+    font-size: 50px;
+    font-family: Fantasy;
+    text-align: center;
+
+
+  }
+h1 {
+    color: red;
+
+}
+b {
+    font-size: 35px;
+    color:red;
+}
