@@ -16,3 +16,11 @@ b {
     font-size: 35px;
     color:red;
 }
+h3{
+    text-align: left;
+    width: 50%;
+}
+table{
+    border: 5px solid black;
+    box-shadow: 5px 5px red;
+}
